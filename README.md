@@ -1,4 +1,13 @@
-# yogga
+# YOGGA HADI SUTISNA
+# NIM:3912270003
+# MATA KULIAH : PROGRAM PERANGKAT BERGERAK
+# DOSEN : Rifqi Zakaria,M.Kom
+
+
+BottomNavigationBar 
+
+
+
 
 A new Flutter project.
 
