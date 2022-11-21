@@ -6,7 +6,7 @@
 
 Preview Hasil projec : https://drive.google.com/file/d/1GBUCBu9tVD7uy9kTjl8Zb0cd7ke-ZKI9/view?usp=sharing 
 
-![alt text]([http://url/to/img.png](https://drive.google.com/file/d/1GBUCBu9tVD7uy9kTjl8Zb0cd7ke-ZKI9/view))
+
 
 
 A new Flutter project.
