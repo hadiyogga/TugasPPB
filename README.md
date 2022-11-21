@@ -4,7 +4,7 @@
 # MATA KULIAH : PROGRAM PERANGKAT BERGERAK
 # DOSEN : Rifqi Zakaria,M.Kom
 
-Hasil projec : https://drive.google.com/file/d/1GBUCBu9tVD7uy9kTjl8Zb0cd7ke-ZKI9/view?usp=sharing 
+Preview Hasil projec : https://drive.google.com/file/d/1GBUCBu9tVD7uy9kTjl8Zb0cd7ke-ZKI9/view?usp=sharing 
 
 
 
